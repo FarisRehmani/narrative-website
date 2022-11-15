@@ -104,7 +104,7 @@ hr:not([size]) {
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-family: 'Sono', sans-serif;
+  font-family: 'Playfair Display SC', serif;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -4588,7 +4588,7 @@ section h1 {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   color: rgb(0, 0, 0);
-  font : normal 300 64px/1 'Josefin Sans', sans-serif;
+  font : normal 300 64px/1 'Playfair Display SC', serif;
   text-align: center;
   white-space: nowrap;
 }
@@ -4822,6 +4822,7 @@ section h1 {
 
 #section05 a {
   padding-top: 70px;
+  color:#000000;
 }
 #section05 a span {
   position: absolute;
@@ -4837,6 +4838,7 @@ section h1 {
   -webkit-animation: sdb05 1.5s infinite;
   animation: sdb05 1.5s infinite;
   box-sizing: border-box;
+  color:#000000;
 }
 @-webkit-keyframes sdb05 {
   0% {
@@ -4869,6 +4871,7 @@ section h1 {
 
 #section06 a {
   padding-top: 70px;
+  color:#000000;
 }
 #section06 a span {
   position: absolute;
@@ -4884,6 +4887,7 @@ section h1 {
   -webkit-animation: sdb06 1.5s infinite;
   animation: sdb06 1.5s infinite;
   box-sizing: border-box;
+  color:#000000;
 }
 @-webkit-keyframes sdb06 {
   0% {
@@ -4916,6 +4920,7 @@ section h1 {
 
 #section07 a {
   padding-top: 80px;
+  color:#000000;
 }
 #section07 a span {
   position: absolute;
@@ -4932,6 +4937,7 @@ section h1 {
   animation: sdb07 2s infinite;
   opacity: 0;
   box-sizing: border-box;
+  color:#000000;
 }
 #section07 a span:nth-of-type(1) {
   -webkit-animation-delay: 0s;
@@ -4974,6 +4980,7 @@ section h1 {
 
 #section08 a {
   padding-top: 60px;
+  color:#000000;
 }
 #section08 a span {
   position: absolute;
@@ -4985,6 +4992,7 @@ section h1 {
   border: 2px solid #fff;
   border-radius: 50px;
   box-sizing: border-box;
+  color:#000000;
 }
 #section08 a span::before {
   position: absolute;
@@ -5003,6 +5011,7 @@ section h1 {
 
 #section09 a {
   padding-top: 80px;
+  color:#000000;
 }
 #section09 a span {
   position: absolute;
@@ -5014,6 +5023,7 @@ section h1 {
   border: 2px solid #fff;
   border-radius: 50px;
   box-sizing: border-box;
+  color:#000000;
 }
 #section09 a span::before {
   position: absolute;
@@ -5046,6 +5056,7 @@ section h1 {
 
 #section10 a {
   padding-top: 60px;
+  color:#000000;
 }
 #section10 a span {
   position: absolute;
@@ -5057,6 +5068,7 @@ section h1 {
   border: 2px solid #fff;
   border-radius: 50px;
   box-sizing: border-box;
+  color:#000000;
 }
 #section10 a span::before {
   position: absolute;
@@ -12392,5 +12404,5 @@ html {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #ffffff;
 }
