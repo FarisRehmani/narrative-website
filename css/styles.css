@@ -675,7 +675,7 @@ blockquote {
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
-  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-top: -26rem;
   margin-right: calc(-0.5 * var(--bs-gutter-x));
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
@@ -6682,7 +6682,7 @@ section h1 {
 
 @media (min-width: 62em) {
   .featurette-heading {
-    margin-top: 7rem;
+    margin-top: 19rem;
   }
 }
 
@@ -8156,7 +8156,7 @@ col-md-7 order-md-2 {
 .mx-auto {
   margin-right: auto !important;
   margin-left: auto !important;
-  margin-top: 300px;
+  margin-top: 500px;
 }
 
 .my-0 {
