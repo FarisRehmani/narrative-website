@@ -4590,6 +4590,7 @@ section h1 {
   transform: translate(-50%, -50%);
   color: rgb(0, 0, 0);
   font : normal 300 64px/1 'Playfair Display SC', serif;
+  font-weight: 800;
   text-align: center;
   white-space: nowrap;
 }
@@ -12323,6 +12324,15 @@ html {
 .form-floating label {
   font-size: 1.5rem;
   color: #6c757d;
+}
+
+.col-inner {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 .masthead {
