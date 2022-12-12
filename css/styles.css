@@ -7525,6 +7525,28 @@ time {
   content: "";
 }
 
+.locationtext {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 3px dashed #6D6D6D;
+    padding: 15px;
+    font-family: helvetica;
+    font-weight: normal;
+    font-size: 16px;
+  }
+  
+
+  .locationtext2 {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 3px dashed #6D6D6D;
+    padding: 15px;
+    font-family: helvetica;
+    font-weight: normal;
+    font-size: 16px;
+  }
+
+
 .text-truncate {
   overflow: hidden;
   text-overflow: ellipsis;
