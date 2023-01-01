@@ -6655,6 +6655,7 @@ section h1 {
 
 .carousel-item {
   position: relative;
+  border: 3px solid black;
   display: none;
   float: left;
   width: 100%;
